@@ -1,2 +1,2 @@
 # The-Sam-Project
-Helping Sam how to do basic 
+Helping Sam to do basic webesign
